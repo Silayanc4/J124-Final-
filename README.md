@@ -80,5 +80,9 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 3. Make the rows their "County Names" and "County Codes" and the Value as "School Type" 
 4. Name this "Location and Count"
 
+## How populated are they? 
+1. Add to "Location and Count" the value of "SUM of Free Meal Count" 
+[meal count](https://user-images.githubusercontent.com/109619685/183436086-5fbd23a0-47f6-4ad4-9170-d7ce517ee658.png)
+
 # Data Visualizations 
 ![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
