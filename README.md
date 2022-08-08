@@ -71,3 +71,4 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 5. Which counties have the biggest difference between the percentage of free and reduced lunch eligible students of their juvenile court schools and the rest of the schools? 
 
 # Data Visualizations 
+![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
