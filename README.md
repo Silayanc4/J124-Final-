@@ -82,7 +82,17 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 
 ## How populated are they? 
 1. Add to "Location and Count" the value of "SUM of Free Meal Count" 
-[meal count](https://user-images.githubusercontent.com/109619685/183436086-5fbd23a0-47f6-4ad4-9170-d7ce517ee658.png)
+[meal count](https://user-images.githubusercontent.com/109619685/183436086-5fbd23a0-47f6-4ad4-9170-d7ce517ee658.png) 
+the most populated juvenile court schools are Los Angeles, Orange, San Diego, and Kern Counties
+
+## WHat is the FRMP average for juvenile court schools 
+1. Use the isolated juvenile court schools data 
+2. Make a pivot table and add their % of eligible for FRMP 
+3. Get the average of the juvenile court schools by using the average or AVG in the values section 
+
+## Which counties have the biggest difference between the percentage of free and reduced lunch eligible students of their juvenile court schools and the rest of the schools?
+
+## How do these juvenile court schools compare to other types of schools for eligible free lunches?
 
 # Data Visualizations 
 ![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
