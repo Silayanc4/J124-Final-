@@ -64,9 +64,10 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 
 # Data Analysis 
 ### Here are my guiding questions 
-1. How many juvenile court schools are there? 
-2. Where are the juvenile court schools? 
+1. How many juvenile court schools are there and where are they?
+2. How populated are they? 
 3. What is the free and reduced lunch average for these juvenile court schools? 
 4. How do these juvenile court schools compare to other types of schools for eligible Free Lunches?
 5. Which counties have the biggest difference between the percentage of free and reduced lunch eligible students of their juvenile court schools and the rest of the schools? 
 
+# Data Visualizations 
