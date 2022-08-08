@@ -70,5 +70,15 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 4. How do these juvenile court schools compare to other types of schools for eligible Free Lunches?
 5. Which counties have the biggest difference between the percentage of free and reduced lunch eligible students of their juvenile court schools and the rest of the schools? 
 
+## Download this [dataset](https://www.cde.ca.gov/ds/ad/filessp.asp) as a CSV file 
+## Here is *[my dataset](https://docs.google.com/spreadsheets/d/1WL1D8wbMM-r2la69j0H0akfdj5uftsPqEpW92ik-GIs/edit?usp=sharing)* that I used 
+
+## How many juvenile court schools are there and where are they?
+1. Isolate the juvenile court schools by filtering them 
+![filtering juvenile schools](https://user-images.githubusercontent.com/109619685/183434382-596680d4-bce8-443c-9a81-2ee5f125725f.png)
+2. Copy and Paste them into a Pivot Table 
+3. Make the rows their "County Names" and "County Codes" and the Value as "School Type" 
+4. Name this "Location and Count"
+
 # Data Visualizations 
 ![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
