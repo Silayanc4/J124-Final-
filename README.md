@@ -79,16 +79,19 @@ Jarvin has over 10 years of experience working with juvenile justice reform, wit
 2. Copy and Paste them into a Pivot Table 
 3. Make the rows their "County Names" and "County Codes" and the Value as "School Type" 
 4. Name this "Location and Count"
+[location and count](https://user-images.githubusercontent.com/109619685/183460804-c30b7922-67c6-4567-bd3d-160b639d2b2e.png)
 
 ## How populated are they? 
 1. Add to "Location and Count" the value of "SUM of Free Meal Count" 
 [meal count](https://user-images.githubusercontent.com/109619685/183436086-5fbd23a0-47f6-4ad4-9170-d7ce517ee658.png) 
 the most populated juvenile court schools are Los Angeles, Orange, San Diego, and Kern Counties
+[most populated juvenile court schools](https://user-images.githubusercontent.com/109619685/183461263-268b0fe8-2853-4ceb-99c1-f91f9b014f9a.png)
 
 ## WHat is the FRMP average for juvenile court schools 
 1. Use the isolated juvenile court schools data 
 2. Make a pivot table and add their % of eligible for FRMP 
 3. Get the average of the juvenile court schools by using the average or AVG in the values section 
+![eligib count](https://user-images.githubusercontent.com/109619685/183462811-3ce41664-2c92-435e-8136-daa5d6df799e.png)
 
 ## Which counties have the biggest difference between the percentage of free and reduced lunch eligible students of their juvenile court schools and the rest of the schools?
 1. Create a data set without the juvenile schools 
@@ -101,12 +104,13 @@ the most populated juvenile court schools are Los Angeles, Orange, San Diego, an
 3. use the *=vlookup(A2,'County Averages excluding Juvenile Court Schools'!A:C, 3,FALSE)* to find the county averages 
 4. Create an equation where it is the difference between Juvenile COurt Schools and the rest of the schools, I did an =C3-D3 and then did that for the whole column 
 5. I sorted those values from greated difference to least using the sort (Z to A) in descending order  
+![vlookup](https://user-images.githubusercontent.com/109619685/183461779-f1532d5f-cc6d-40d5-98c5-2b2f2c9855b9.png)
 
 This is the [sheet](https://docs.google.com/spreadsheets/d/1cjTfw_7ikak9kbFCEB9wb0kQ2FxuZtXEidRKGVdJUMQ/edit?usp=sharing) I used for the data visualization 
 ## How do these juvenile court schools compare to other types of schools for eligible free lunches?
 1. Using the whole data set, make a pivot table 
 2. make the column school type and make the value percent of FRMP eligibility 
 3. compare the different school types 
-
+![comparing juvenile court schools and other schools](https://user-images.githubusercontent.com/109619685/183462042-b0a43f99-9e3a-44b6-96f6-deace0ec9fd8.png)
 # Data Visualizations 
 ![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
