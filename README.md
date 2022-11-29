@@ -116,3 +116,5 @@ This is the [sheet](https://docs.google.com/spreadsheets/d/1cjTfw_7ikak9kbFCEB9w
 ![comparing juvenile court schools and other schools](https://user-images.githubusercontent.com/109619685/183462042-b0a43f99-9e3a-44b6-96f6-deace0ec9fd8.png)
 # Data Visualizations 
 ![w84PP-difference-between-the-free-lunch-of-the-county-average-and-their-juvenile-court-school-](https://user-images.githubusercontent.com/109619685/183431850-4c6d9415-e318-463a-8354-612f6cbba2ab.png)
+<iframe title="Difference between the Free Lunch of the County Average and their Juvenile Court School " aria-label="Map" id="datawrapper-chart-w84PP" src="https://datawrapper.dwcdn.net/w84PP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="826"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
