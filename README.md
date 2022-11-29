@@ -10,9 +10,9 @@ by Silayan Camson
 Students who are Free and Reduced Price Meal Eligible are described in the data set as
 “(1) applying for the National School Lunch Program (NSLP); (2) submitting alternative household income forms; (3) student homeless, migrant, or tribal foster youth statuses in CALPADS;  (4) being "directly certified" through CALPADS as participating in California's food stamp or CalWORKs programs or (5) being identified through the weekly CALPADS Foster Matching process or matched by the LEA through the CALPADS online match process as being in Foster Placement, Foster Family Maintenance, or Tribal Foster on Census day”.
 
-I wanted to observe FRPM data within Juvenile Court Schools, but soon saw that 100% of the students within Juvenile Court Schools were FRPM eligible. This project specifically focuses on where Juvenile Court Schools were located and putting the juvenile court schools in a local context. The main comparison is the FRPM averages of the overall counties and the juvenile court schools.
+This project specifically focuses on comparing the FRPM averages of the overall counties and the juvenile court schools. The data-based maps are focused on mapping the difference between their FRPM averages and help put the juvenile court schools in a local context. 
 
-Larger differences between the FRPM levels of Juvenile Court Schools and the rest of their county might be concerning and worth exploring on even smaller scales like cities. Higher counts of Juvenile Court Schools could also be worth exploring for negligence or high socioeconomic difference within the county- especially with larger differences in FRPM eligibility in a local context. 
+Higher counts of Juvenile Court Schools could also be worth exploring for negligence or high socioeconomic difference within the county- especially with larger differences in FRPM eligibility in a local context. Larger differences between the FRPM levels of Juvenile Court Schools and the rest of their county might be concerning and worth exploring on even smaller scales like cities. 
 
 ## Additional Sourcing 
 ### ![School Accountability Report Card](https://www.sarconline.org/public/findASarc) 
