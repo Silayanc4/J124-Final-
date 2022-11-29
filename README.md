@@ -115,6 +115,6 @@ This is the [sheet](https://docs.google.com/spreadsheets/d/1cjTfw_7ikak9kbFCEB9w
 3. compare the different school types 
 ![comparing juvenile court schools and other schools](https://user-images.githubusercontent.com/109619685/183462042-b0a43f99-9e3a-44b6-96f6-deace0ec9fd8.png)
 # Data Visualizations 
-(![w84PP-frpm-difference-between-juvenile-court-schools-and-the-county-average (1)](https://user-images.githubusercontent.com/109619685/204656008-35d05e44-b86e-4aed-8232-c2592bfb928f.png)
-)
+![w84PP-frpm-difference-between-juvenile-court-schools-and-the-county-average (1)](https://user-images.githubusercontent.com/109619685/204656008-35d05e44-b86e-4aed-8232-c2592bfb928f.png)
+
 
