@@ -16,7 +16,7 @@ Higher counts of Juvenile Court Schools could also be worth exploring for neglig
 
 ## Additional Sourcing 
 ### ![School Accountability Report Card](https://www.sarconline.org/public/findASarc) 
-Each school would show a lot more data on demographics, English learning percentages, and homelessness. 
+This source has more data points on demographics, English learning percentages, and homelessness. 
 
 ### Department of Justice (2020). Criminal Justice Data. Juvenile Court and Probation.
 The department of justice’s [website](https://data-openjustice.doj.ca.gov/sites/default/files/2021-06/Juvenile%20Justice%20In%20CA%202020.pdf) is not working, so data must be requested in order to get access to it. This would show sentencing data and if they are possibly getting transferred to an adult facility. 
